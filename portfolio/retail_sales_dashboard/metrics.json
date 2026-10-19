@@ -1,0 +1,90 @@
+{
+  "row_count": 720,
+  "revenue": 1130163.39,
+  "profit": 372112.97,
+  "margin_pct": 32.9,
+  "invalid_rows": 0,
+  "top_category": "Electronics",
+  "top_region": "North",
+  "top_month": "2025-12",
+  "monthly": [
+    {
+      "month": "2025-01",
+      "revenue": 75322.2
+    },
+    {
+      "month": "2025-02",
+      "revenue": 88253.59
+    },
+    {
+      "month": "2025-03",
+      "revenue": 75518.92
+    },
+    {
+      "month": "2025-04",
+      "revenue": 83636.16
+    },
+    {
+      "month": "2025-05",
+      "revenue": 95257.22
+    },
+    {
+      "month": "2025-06",
+      "revenue": 79735.19
+    },
+    {
+      "month": "2025-07",
+      "revenue": 77530.74
+    },
+    {
+      "month": "2025-08",
+      "revenue": 81853.56
+    },
+    {
+      "month": "2025-09",
+      "revenue": 114964.88
+    },
+    {
+      "month": "2025-10",
+      "revenue": 136824.91
+    },
+    {
+      "month": "2025-11",
+      "revenue": 71838.04
+    },
+    {
+      "month": "2025-12",
+      "revenue": 149427.98
+    }
+  ],
+  "categories": [
+    {
+      "name": "Books",
+      "revenue": 106220.92,
+      "profit": 47408.56,
+      "margin_pct": 44.6,
+      "orders": 129
+    },
+    {
+      "name": "Electronics",
+      "revenue": 684745.35,
+      "profit": 190727.58,
+      "margin_pct": 27.9,
+      "orders": 213
+    },
+    {
+      "name": "Grocery",
+      "revenue": 79820.19,
+      "profit": 19777.97,
+      "margin_pct": 24.8,
+      "orders": 184
+    },
+    {
+      "name": "Home",
+      "revenue": 259376.93,
+      "profit": 114198.86,
+      "margin_pct": 44.0,
+      "orders": 194
+    }
+  ]
+}

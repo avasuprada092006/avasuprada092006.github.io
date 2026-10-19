@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Ajar Vasuprada's Data Analyst resume and project portfolio.">
+  <meta property="og:title" content="Ajar Vasuprada | Data Analyst Portfolio">
+  <meta property="og:description" content="Resume and interactive analytics projects by Ajar Vasuprada.">
+  <title>Ajar Vasuprada | Data Analyst Portfolio</title>
+  <style>
+    :root{--ink:#152b3c;--muted:#536b7b;--blue:#175f96;--pale:#eaf3f8;--line:#d7e3eb;--white:#fff}
+    *{box-sizing:border-box}body{margin:0;background:linear-gradient(180deg,#f5f9fc 0,#fff 460px);color:var(--ink);font:16px/1.65 Inter,"Segoe UI",Arial,sans-serif}
+    main{width:min(960px,calc(100% - 32px));margin:0 auto;padding:52px 0 64px}.eyebrow{text-transform:uppercase;letter-spacing:.14em;font-size:12px;font-weight:750;color:var(--blue)}
+    h1{font-size:clamp(38px,7vw,62px);letter-spacing:-.045em;line-height:1.03;margin:10px 0 12px}.lead{font-size:19px;color:var(--muted);max-width:700px;margin:0}
+    .contact{display:flex;flex-wrap:wrap;gap:10px 20px;margin:24px 0 28px;color:var(--blue);font-weight:650}.contact a,.contact span{color:inherit;text-decoration:none}.contact a:hover,.textlink:hover{text-decoration:underline}
+    .actions{display:flex;flex-wrap:wrap;gap:12px;margin:24px 0 42px}.button{display:inline-flex;align-items:center;justify-content:center;border-radius:10px;padding:11px 17px;text-decoration:none;font-weight:700}.primary{background:var(--blue);color:white}.secondary{border:1px solid var(--line);background:white;color:var(--ink)}
+    h2{font-size:25px;letter-spacing:-.025em;margin:0 0 14px}.projects{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}.card{background:var(--white);border:1px solid var(--line);border-radius:16px;padding:22px;box-shadow:0 12px 34px #173c520d}.tag{color:var(--blue);font-size:12px;font-weight:750;text-transform:uppercase;letter-spacing:.08em}.card h3{font-size:21px;line-height:1.25;margin:8px 0}.card p{color:var(--muted);margin:0 0 12px}.stat{color:var(--ink)!important;font-size:14px;font-weight:650}.textlink{color:var(--blue);font-weight:700;text-decoration:none}.note{margin-top:20px;padding:14px 16px;border-left:4px solid var(--blue);background:var(--pale);border-radius:8px;color:#2d4a5f;font-size:14px}.foot{margin-top:34px;padding-top:18px;border-top:1px solid var(--line);color:var(--muted);font-size:13px}
+    @media(max-width:650px){main{padding-top:36px}.projects{grid-template-columns:1fr}.lead{font-size:17px}.contact{gap:8px 14px}}
+  </style>
+</head>
+<body>
+<main>
+  <p class="eyebrow">Data Analyst · Portfolio</p>
+  <h1>Ajar Vasuprada</h1>
+  <p class="lead">Entry-level Data Analyst focused on turning data into clear, practical insights through SQL, Python, Excel, and Power BI.</p>
+  <div class="contact" aria-label="Contact details">
+    <span>India</span><span>+91 9305897814</span>
+    <a href="mailto:avasuprada@gmail.com">avasuprada@gmail.com</a>
+    <a href="https://www.linkedin.com/in/ajar-vasuprada-mishra-035582336/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+  </div>
+  <div class="actions"><a class="button primary" href="Ajar_Vasuprada_Data_Analyst_Resume.pdf" download>Download resume (PDF)</a><a class="button secondary" href="mailto:avasuprada@gmail.com">Email me</a></div>
+  <section aria-labelledby="projects-title">
+    <h2 id="projects-title">Selected projects</h2>
+    <div class="projects">
+      <article class="card">
+        <span class="tag">Retail · SQL · Python</span>
+        <h3>Retail Revenue &amp; Margin Explorer</h3>
+        <p>Interactive dashboard exploring sales, product categories, regions, and gross margin from generated retail data.</p>
+        <p class="stat">720 synthetic order lines · sample gross margin 32.9%</p>
+        <a class="textlink" href="portfolio/retail_sales_dashboard/index.html">Open interactive dashboard →</a>
+      </article>
+      <article class="card">
+        <span class="tag">Operations · SQL · Python</span>
+        <h3>Support Ticket SLA Quality Monitor</h3>
+        <p>Interactive analysis of resolution times, ticket priorities, categories, and illustrative SLA performance.</p>
+        <p class="stat">480 synthetic tickets · sample SLA rate 77.1%</p>
+        <a class="textlink" href="portfolio/support_sla_analysis/index.html">Open interactive dashboard →</a>
+      </article>
+    </div>
+  </section>
+  <p class="note">Both projects use generated practice data. Results describe the sample datasets only and do not represent real company or customer records.</p>
+  <footer class="foot">© Ajar Vasuprada · <a class="textlink" href="https://www.linkedin.com/in/ajar-vasuprada-mishra-035582336/" target="_blank" rel="noopener noreferrer">LinkedIn</a></footer>
+</main>
+</body>
+</html>

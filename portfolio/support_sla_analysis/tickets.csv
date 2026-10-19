@@ -1,0 +1,481 @@
+ticket_id,created_date,priority,category,channel,first_response_hours,resolution_hours,sla_hours,sla_met,customer_rating
+T0203,2025-01-03,High,Delivery,Web form,2.5,8.3,8,0,3
+T0476,2025-01-03,Medium,Returns,Chat,1.6,29.2,24,0,3
+T0304,2025-01-05,Low,Delivery,Email,6.0,56.1,48,0,3
+T0341,2025-01-05,Medium,Delivery,Chat,7.1,29.2,24,0,4
+T0164,2025-01-07,Low,Billing,Email,7.3,26.3,48,1,5
+T0104,2025-01-08,Low,Billing,Web form,2.5,12.8,48,1,4
+T0249,2025-01-08,Medium,Product help,Web form,4.9,16.7,24,1,4
+T0404,2025-01-08,Medium,Delivery,Email,6.5,21.4,24,1,4
+T0460,2025-01-08,Medium,Account access,Chat,2.5,15.3,24,1,5
+T0215,2025-01-09,Medium,Account access,Web form,5.4,20.6,24,1,5
+T0262,2025-01-09,Medium,Product help,Email,2.4,20.0,24,1,4
+T0286,2025-01-09,Low,Delivery,Chat,1.9,21.6,48,1,4
+T0191,2025-01-10,Medium,Delivery,Web form,5.0,28.2,24,0,3
+T0145,2025-01-12,Medium,Billing,Chat,1.4,22.1,24,1,5
+T0380,2025-01-12,Low,Delivery,Chat,4.7,18.2,48,1,4
+T0274,2025-01-13,High,Product help,Email,0.4,2.8,8,1,3
+T0368,2025-01-13,Medium,Returns,Email,6.7,31.3,24,0,3
+T0025,2025-01-14,Low,Returns,Web form,2.8,25.9,48,1,4
+T0009,2025-01-15,Medium,Account access,Chat,2.2,11.5,24,1,4
+T0385,2025-01-16,Medium,Returns,Web form,7.7,25.8,24,0,4
+T0058,2025-01-18,Low,Delivery,Web form,5.7,43.3,48,1,4
+T0144,2025-01-18,Medium,Returns,Chat,4.9,16.9,24,1,3
+T0382,2025-01-18,Low,Delivery,Chat,9.2,33.6,48,1,5
+T0416,2025-01-18,High,Account access,Web form,1.6,8.3,8,0,2
+T0425,2025-01-18,Medium,Returns,Chat,8.5,25.3,24,0,2
+T0017,2025-01-19,Medium,Product help,Email,3.5,17.7,24,1,5
+T0091,2025-01-19,Low,Billing,Email,15.3,43.6,48,1,4
+T0186,2025-01-19,Medium,Billing,Chat,3.8,10.9,24,1,3
+T0349,2025-01-19,Medium,Returns,Email,6.6,28.6,24,0,3
+T0116,2025-01-21,Low,Account access,Web form,9.6,25.6,48,1,4
+T0136,2025-01-22,Low,Returns,Chat,7.0,22.9,48,1,5
+T0314,2025-01-23,Low,Product help,Email,3.9,19.2,48,1,4
+T0083,2025-01-24,Medium,Billing,Chat,5.4,15.7,24,1,4
+T0290,2025-01-24,Medium,Delivery,Chat,1.1,17.3,24,1,4
+T0165,2025-01-25,Low,Returns,Web form,15.0,45.9,48,1,2
+T0188,2025-01-26,Medium,Delivery,Email,4.6,18.8,24,1,5
+T0457,2025-01-26,Low,Account access,Chat,12.1,50.2,48,0,3
+T0480,2025-01-27,Medium,Delivery,Email,3.1,21.3,24,1,4
+T0062,2025-01-29,Low,Billing,Chat,4.2,13.0,48,1,5
+T0403,2025-02-01,Low,Account access,Email,4.1,19.9,48,1,3
+T0135,2025-02-02,Medium,Returns,Email,3.9,17.4,24,1,5
+T0182,2025-02-02,Low,Delivery,Email,4.4,19.6,48,1,5
+T0399,2025-02-03,High,Returns,Chat,0.3,4.5,8,1,5
+T0407,2025-02-03,Medium,Account access,Email,1.1,12.4,24,1,4
+T0237,2025-02-05,Medium,Product help,Chat,2.5,10.8,24,1,3
+T0093,2025-02-06,Medium,Product help,Chat,9.3,26.1,24,0,2
+T0266,2025-02-06,Low,Returns,Chat,6.1,37.9,48,1,4
+T0415,2025-02-06,High,Delivery,Chat,0.8,7.8,8,1,4
+T0463,2025-02-06,Low,Delivery,Chat,5.5,27.4,48,1,5
+T0193,2025-02-07,Low,Billing,Chat,10.0,34.3,48,1,5
+T0246,2025-02-07,Low,Delivery,Chat,2.3,32.6,48,1,3
+T0257,2025-02-07,Medium,Billing,Chat,6.1,16.7,24,1,5
+T0223,2025-02-08,Low,Billing,Chat,10.9,29.1,48,1,4
+T0309,2025-02-08,Medium,Returns,Email,5.1,22.7,24,1,5
+T0204,2025-02-09,Low,Product help,Email,6.2,34.1,48,1,3
+T0128,2025-02-10,Low,Delivery,Chat,8.9,34.8,48,1,5
+T0084,2025-02-11,Low,Billing,Chat,14.2,43.3,48,1,4
+T0458,2025-02-11,High,Product help,Web form,3.3,9.5,8,0,2
+T0053,2025-02-12,Medium,Account access,Email,5.7,20.5,24,1,5
+T0340,2025-02-12,Medium,Returns,Email,4.1,22.2,24,1,4
+T0288,2025-02-13,High,Delivery,Web form,2.3,11.5,8,0,1
+T0437,2025-02-13,Low,Account access,Web form,4.7,14.5,48,1,4
+T0156,2025-02-14,Low,Product help,Web form,4.7,19.7,48,1,5
+T0054,2025-02-15,Low,Delivery,Email,16.9,59.5,48,0,3
+T0232,2025-02-15,Low,Delivery,Web form,4.2,25.4,48,1,4
+T0330,2025-02-15,Medium,Account access,Web form,4.1,19.3,24,1,4
+T0346,2025-02-16,High,Product help,Web form,2.3,8.3,8,0,1
+T0372,2025-02-18,Medium,Returns,Email,2.4,8.3,24,1,4
+T0466,2025-02-19,Low,Account access,Chat,10.1,34.6,48,1,5
+T0123,2025-02-20,Medium,Delivery,Email,8.0,23.8,24,1,4
+T0255,2025-02-20,Low,Delivery,Web form,2.3,40.5,48,1,5
+T0238,2025-02-23,Medium,Returns,Web form,4.6,29.5,24,0,2
+T0436,2025-02-23,Medium,Billing,Chat,2.8,16.7,24,1,4
+T0283,2025-02-24,Low,Billing,Web form,3.5,48.7,48,0,4
+T0174,2025-02-25,Low,Returns,Chat,2.6,17.5,48,1,5
+T0231,2025-02-26,Medium,Account access,Chat,8.5,23.7,24,1,5
+T0456,2025-02-27,Low,Delivery,Web form,1.3,17.4,48,1,4
+T0359,2025-02-28,Medium,Billing,Chat,3.6,10.5,24,1,4
+T0247,2025-03-01,Medium,Billing,Email,5.0,14.8,24,1,5
+T0478,2025-03-01,Low,Product help,Chat,4.0,14.4,48,1,5
+T0015,2025-03-02,High,Account access,Email,0.7,8.6,8,0,4
+T0044,2025-03-02,Low,Account access,Email,14.5,40.2,48,1,5
+T0280,2025-03-02,Medium,Returns,Chat,7.0,26.0,24,0,3
+T0122,2025-03-03,Medium,Returns,Chat,4.7,17.1,24,1,3
+T0289,2025-03-03,Low,Returns,Chat,7.4,33.2,48,1,4
+T0418,2025-03-03,Low,Billing,Email,6.8,24.4,48,1,5
+T0121,2025-03-04,Medium,Delivery,Email,7.9,24.3,24,0,3
+T0229,2025-03-06,Medium,Account access,Chat,2.8,8.3,24,1,5
+T0471,2025-03-06,Medium,Returns,Email,3.6,11.7,24,1,5
+T0026,2025-03-07,Medium,Billing,Chat,1.1,13.0,24,1,5
+T0177,2025-03-07,Medium,Delivery,Email,9.7,25.8,24,0,2
+T0228,2025-03-07,Low,Account access,Web form,11.0,35.5,48,1,5
+T0292,2025-03-07,Low,Returns,Web form,16.6,54.9,48,0,3
+T0331,2025-03-07,Medium,Returns,Chat,2.9,18.4,24,1,4
+T0157,2025-03-08,High,Account access,Email,0.8,4.9,8,1,3
+T0178,2025-03-08,Low,Account access,Email,11.2,39.9,48,1,4
+T0206,2025-03-08,Medium,Delivery,Web form,8.4,30.9,24,0,3
+T0315,2025-03-08,Medium,Delivery,Chat,1.1,10.9,24,1,4
+T0449,2025-03-08,Medium,Delivery,Email,4.6,17.5,24,1,5
+T0442,2025-03-09,Medium,Returns,Web form,1.7,21.3,24,1,5
+T0453,2025-03-10,Low,Returns,Chat,13.4,58.5,48,0,2
+T0007,2025-03-11,Medium,Product help,Email,1.2,21.5,24,1,5
+T0171,2025-03-11,Medium,Billing,Web form,4.8,13.0,24,1,4
+T0216,2025-03-11,Medium,Billing,Email,6.0,19.5,24,1,4
+T0302,2025-03-11,High,Returns,Email,1.1,3.3,8,1,4
+T0027,2025-03-13,Medium,Account access,Web form,1.7,19.6,24,1,5
+T0260,2025-03-13,Medium,Product help,Web form,3.6,10.8,24,1,5
+T0036,2025-03-14,High,Returns,Email,1.0,4.4,8,1,5
+T0055,2025-03-14,High,Delivery,Email,0.9,7.4,8,1,4
+T0254,2025-03-14,Medium,Returns,Web form,2.6,21.1,24,1,5
+T0129,2025-03-15,Medium,Billing,Web form,3.0,17.2,24,1,5
+T0080,2025-03-16,High,Returns,Email,1.5,4.4,8,1,5
+T0159,2025-03-17,Medium,Product help,Chat,5.3,29.3,24,0,4
+T0261,2025-03-17,Medium,Product help,Email,1.8,15.1,24,1,5
+T0424,2025-03-17,Medium,Billing,Email,1.6,8.4,24,1,4
+T0142,2025-03-18,High,Delivery,Chat,0.8,3.9,8,1,5
+T0016,2025-03-19,Medium,Product help,Email,1.3,26.2,24,0,3
+T0069,2025-03-19,Medium,Product help,Email,0.6,12.6,24,1,4
+T0448,2025-03-19,Medium,Account access,Chat,1.8,7.8,24,1,3
+T0126,2025-03-21,Medium,Billing,Web form,1.3,11.0,24,1,5
+T0127,2025-03-21,Medium,Product help,Email,4.0,21.3,24,1,5
+T0143,2025-03-21,Low,Account access,Chat,5.2,19.2,48,1,4
+T0434,2025-03-21,Medium,Product help,Web form,1.6,21.5,24,1,4
+T0225,2025-03-22,Medium,Returns,Web form,6.4,25.5,24,0,4
+T0347,2025-03-22,Medium,Delivery,Email,2.1,14.7,24,1,5
+T0149,2025-03-23,Medium,Billing,Chat,1.4,8.1,24,1,5
+T0444,2025-03-24,Medium,Returns,Chat,0.4,8.1,24,1,5
+T0110,2025-03-25,Medium,Billing,Web form,0.4,6.0,24,1,4
+T0175,2025-03-25,Medium,Delivery,Chat,1.8,17.9,24,1,5
+T0050,2025-03-27,High,Returns,Chat,0.4,5.6,8,1,5
+T0276,2025-03-27,Low,Account access,Email,7.7,54.6,48,0,2
+T0167,2025-03-28,Low,Billing,Chat,3.1,24.9,48,1,5
+T0064,2025-03-29,Low,Billing,Chat,4.2,49.0,48,0,2
+T0067,2025-03-29,High,Returns,Email,1.9,5.9,8,1,4
+T0125,2025-03-30,Medium,Returns,Email,1.5,13.8,24,1,4
+T0350,2025-03-30,Medium,Product help,Email,4.2,11.5,24,1,4
+T0139,2025-03-31,Low,Returns,Web form,5.7,23.2,48,1,5
+T0158,2025-03-31,Medium,Account access,Chat,4.6,27.3,24,0,4
+T0381,2025-03-31,Low,Product help,Chat,3.6,19.5,48,1,4
+T0074,2025-04-01,High,Account access,Web form,2.1,8.7,8,0,3
+T0010,2025-04-02,Low,Billing,Chat,4.6,22.2,48,1,4
+T0133,2025-04-02,Low,Billing,Chat,10.4,31.2,48,1,5
+T0386,2025-04-02,Medium,Product help,Email,5.1,29.3,24,0,2
+T0464,2025-04-02,Low,Delivery,Chat,13.9,50.0,48,0,3
+T0357,2025-04-03,High,Product help,Chat,2.7,10.8,8,0,3
+T0410,2025-04-03,High,Delivery,Chat,0.9,6.1,8,1,4
+T0169,2025-04-04,Low,Delivery,Email,7.2,22.1,48,1,5
+T0176,2025-04-05,Medium,Delivery,Chat,2.4,9.9,24,1,4
+T0411,2025-04-05,Low,Billing,Chat,5.3,38.9,48,1,5
+T0185,2025-04-09,Medium,Delivery,Chat,2.8,10.0,24,1,3
+T0202,2025-04-09,High,Product help,Chat,2.9,7.9,8,1,3
+T0477,2025-04-10,Low,Delivery,Web form,3.6,23.5,48,1,4
+T0270,2025-04-12,High,Returns,Email,1.0,10.8,8,0,4
+T0250,2025-04-13,Low,Account access,Chat,4.3,17.1,48,1,4
+T0119,2025-04-14,Low,Product help,Email,10.4,43.0,48,1,5
+T0412,2025-04-14,Medium,Account access,Chat,8.6,23.8,24,1,3
+T0099,2025-04-15,Medium,Delivery,Email,2.1,15.3,24,1,4
+T0275,2025-04-15,Medium,Product help,Web form,2.0,17.5,24,1,4
+T0029,2025-04-16,Medium,Billing,Chat,5.1,17.3,24,1,4
+T0313,2025-04-16,Medium,Account access,Email,2.6,23.9,24,1,5
+T0240,2025-04-18,Medium,Account access,Web form,0.6,10.7,24,1,5
+T0414,2025-04-18,Medium,Returns,Email,4.4,12.1,24,1,5
+T0320,2025-04-19,Medium,Product help,Chat,10.1,29.2,24,0,3
+T0373,2025-04-19,Medium,Returns,Chat,2.7,25.7,24,0,3
+T0293,2025-04-20,Medium,Delivery,Chat,4.9,21.1,24,1,3
+T0098,2025-04-21,Medium,Delivery,Chat,9.9,30.4,24,0,3
+T0475,2025-04-21,Low,Delivery,Web form,6.1,30.2,48,1,4
+T0479,2025-04-21,High,Product help,Chat,0.8,6.3,8,1,3
+T0075,2025-04-23,Low,Returns,Chat,2.0,39.1,48,1,5
+T0400,2025-04-23,Low,Delivery,Email,2.4,28.4,48,1,4
+T0441,2025-04-23,Medium,Delivery,Email,2.9,24.5,24,0,4
+T0455,2025-04-25,Low,Billing,Web form,1.5,15.8,48,1,4
+T0207,2025-04-26,Medium,Returns,Chat,2.4,19.3,24,1,4
+T0342,2025-04-26,High,Product help,Email,0.7,8.9,8,0,4
+T0045,2025-04-28,Low,Returns,Chat,7.9,29.1,48,1,5
+T0073,2025-04-29,High,Billing,Chat,1.6,6.3,8,1,3
+T0353,2025-04-29,Medium,Account access,Chat,3.5,25.3,24,0,4
+T0356,2025-04-29,Medium,Account access,Chat,1.8,11.9,24,1,3
+T0002,2025-05-02,Low,Returns,Chat,11.7,63.0,48,0,4
+T0137,2025-05-02,Medium,Delivery,Chat,1.4,19.9,24,1,4
+T0322,2025-05-02,Low,Billing,Email,5.5,21.3,48,1,5
+T0211,2025-05-03,Medium,Returns,Web form,4.9,20.7,24,1,5
+T0468,2025-05-04,Low,Returns,Email,14.1,41.5,48,1,5
+T0426,2025-05-05,Low,Product help,Web form,13.5,42.8,48,1,2
+T0440,2025-05-05,Low,Product help,Chat,4.9,33.9,48,1,4
+T0282,2025-05-06,Medium,Delivery,Chat,5.8,27.0,24,0,2
+T0336,2025-05-06,Medium,Returns,Chat,0.9,14.1,24,1,4
+T0318,2025-05-07,Medium,Account access,Email,3.9,18.3,24,1,5
+T0052,2025-05-10,Medium,Delivery,Chat,7.4,22.6,24,1,4
+T0106,2025-05-10,Medium,Product help,Chat,3.2,29.1,24,0,3
+T0465,2025-05-10,Medium,Account access,Web form,1.8,15.1,24,1,4
+T0160,2025-05-11,Medium,Delivery,Email,6.9,20.8,24,1,5
+T0291,2025-05-11,Medium,Product help,Web form,7.4,27.8,24,0,3
+T0307,2025-05-11,Low,Delivery,Chat,2.0,22.0,48,1,5
+T0192,2025-05-12,Low,Returns,Email,10.3,61.3,48,0,3
+T0154,2025-05-13,Medium,Product help,Email,3.3,21.1,24,1,5
+T0220,2025-05-15,Medium,Delivery,Email,2.1,26.3,24,0,2
+T0435,2025-05-15,Medium,Product help,Chat,4.0,11.2,24,1,3
+T0173,2025-05-17,Low,Delivery,Web form,5.5,29.6,48,1,4
+T0389,2025-05-17,Medium,Delivery,Email,5.2,14.5,24,1,4
+T0390,2025-05-17,Medium,Billing,Web form,1.6,14.6,24,1,4
+T0163,2025-05-18,Low,Delivery,Chat,10.6,31.9,48,1,4
+T0214,2025-05-18,Low,Billing,Chat,12.8,33.9,48,1,3
+T0311,2025-05-18,Medium,Delivery,Chat,3.5,12.9,24,1,3
+T0081,2025-05-19,Medium,Delivery,Chat,3.1,13.6,24,1,4
+T0112,2025-05-21,Low,Delivery,Web form,3.5,55.4,48,0,2
+T0189,2025-05-21,High,Account access,Email,1.1,5.0,8,1,3
+T0300,2025-05-21,Medium,Account access,Chat,2.8,7.5,24,1,5
+T0316,2025-05-21,Low,Delivery,Web form,2.3,36.1,48,1,4
+T0348,2025-05-22,Low,Account access,Web form,8.7,28.1,48,1,4
+T0360,2025-05-22,Medium,Returns,Email,1.1,18.1,24,1,3
+T0114,2025-05-23,Medium,Delivery,Chat,2.3,22.4,24,1,3
+T0406,2025-05-23,Medium,Returns,Web form,1.9,15.8,24,1,5
+T0295,2025-05-24,Medium,Billing,Web form,7.7,20.6,24,1,5
+T0088,2025-05-25,Low,Product help,Chat,8.1,21.9,48,1,3
+T0324,2025-05-26,Medium,Returns,Chat,5.2,15.9,24,1,5
+T0042,2025-05-27,Medium,Product help,Email,2.7,8.1,24,1,3
+T0024,2025-05-28,Low,Billing,Email,3.8,48.7,48,0,3
+T0090,2025-05-30,Low,Delivery,Chat,14.6,55.8,48,0,3
+T0409,2025-05-30,High,Delivery,Email,2.5,8.4,8,0,3
+T0019,2025-06-01,Medium,Delivery,Chat,2.5,26.4,24,0,2
+T0209,2025-06-01,High,Delivery,Chat,0.5,10.1,8,0,2
+T0470,2025-06-01,Low,Delivery,Chat,5.6,61.1,48,0,3
+T0134,2025-06-03,Medium,Billing,Chat,2.4,18.6,24,1,5
+T0248,2025-06-03,Low,Delivery,Chat,15.8,43.1,48,1,4
+T0391,2025-06-03,Medium,Billing,Chat,2.5,15.6,24,1,5
+T0447,2025-06-03,Medium,Product help,Chat,10.5,27.6,24,0,3
+T0063,2025-06-07,Low,Billing,Web form,6.4,18.7,48,1,5
+T0089,2025-06-07,Low,Account access,Email,4.1,16.0,48,1,3
+T0472,2025-06-08,Medium,Returns,Email,8.2,21.9,24,1,3
+T0072,2025-06-10,Medium,Returns,Email,4.1,11.2,24,1,5
+T0162,2025-06-10,Low,Account access,Chat,17.8,55.2,48,0,3
+T0196,2025-06-10,Low,Product help,Email,5.4,30.1,48,1,4
+T0212,2025-06-11,High,Account access,Email,0.9,9.0,8,0,4
+T0239,2025-06-11,High,Delivery,Email,0.5,7.5,8,1,4
+T0051,2025-06-14,Medium,Billing,Email,3.0,16.5,24,1,4
+T0035,2025-06-15,Low,Product help,Chat,4.2,57.3,48,0,4
+T0363,2025-06-15,Medium,Account access,Email,2.0,10.5,24,1,5
+T0161,2025-06-16,Medium,Delivery,Chat,6.1,16.1,24,1,4
+T0194,2025-06-16,Medium,Returns,Chat,1.3,21.2,24,1,5
+T0243,2025-06-16,Medium,Billing,Email,4.3,12.9,24,1,3
+T0117,2025-06-18,High,Returns,Web form,0.2,4.1,8,1,4
+T0132,2025-06-19,Medium,Delivery,Email,4.4,17.3,24,1,3
+T0308,2025-06-20,Low,Delivery,Web form,16.2,43.6,48,1,5
+T0037,2025-06-23,Low,Returns,Chat,5.5,16.4,48,1,4
+T0367,2025-06-28,Medium,Product help,Email,9.0,28.7,24,0,4
+T0170,2025-06-29,Medium,Product help,Chat,5.8,25.1,24,0,3
+T0317,2025-06-29,Medium,Billing,Email,7.5,23.8,24,1,4
+T0263,2025-06-30,Low,Account access,Chat,10.0,37.7,48,1,3
+T0335,2025-06-30,Medium,Returns,Web form,4.3,18.4,24,1,3
+T0155,2025-07-01,Medium,Account access,Chat,6.4,25.2,24,0,3
+T0003,2025-07-02,Low,Returns,Web form,9.9,38.3,48,1,5
+T0294,2025-07-02,Low,Billing,Email,4.8,40.4,48,1,5
+T0469,2025-07-03,High,Delivery,Chat,0.6,4.3,8,1,5
+T0366,2025-07-04,Low,Returns,Chat,17.0,62.3,48,0,3
+T0429,2025-07-04,Medium,Delivery,Web form,5.1,16.0,24,1,4
+T0014,2025-07-06,Medium,Product help,Chat,4.1,10.8,24,1,4
+T0061,2025-07-06,Low,Delivery,Chat,7.4,45.9,48,1,5
+T0151,2025-07-07,High,Delivery,Chat,0.8,5.3,8,1,4
+T0190,2025-07-07,High,Billing,Chat,0.3,3.7,8,1,3
+T0086,2025-07-08,Low,Billing,Web form,1.7,22.3,48,1,4
+T0337,2025-07-08,High,Returns,Email,0.5,3.6,8,1,4
+T0105,2025-07-09,Low,Product help,Email,4.7,20.4,48,1,4
+T0087,2025-07-10,High,Product help,Chat,0.7,8.0,8,1,4
+T0107,2025-07-10,Medium,Billing,Email,3.2,22.5,24,1,4
+T0312,2025-07-11,Low,Account access,Chat,15.7,42.4,48,1,4
+T0233,2025-07-12,Low,Account access,Email,3.1,47.6,48,1,4
+T0329,2025-07-12,Medium,Returns,Chat,3.6,22.1,24,1,3
+T0332,2025-07-12,Medium,Delivery,Email,4.9,21.0,24,1,5
+T0224,2025-07-15,Medium,Returns,Email,3.3,11.4,24,1,5
+T0056,2025-07-16,Medium,Delivery,Email,1.3,25.4,24,0,2
+T0269,2025-07-16,Medium,Returns,Chat,7.4,25.5,24,0,4
+T0383,2025-07-16,High,Delivery,Email,2.1,9.1,8,0,3
+T0474,2025-07-16,High,Billing,Chat,0.8,8.6,8,0,4
+T0048,2025-07-17,Medium,Account access,Email,1.1,9.7,24,1,5
+T0111,2025-07-17,Medium,Billing,Chat,2.7,10.3,24,1,5
+T0181,2025-07-17,Medium,Returns,Web form,8.9,31.0,24,0,4
+T0023,2025-07-20,Medium,Delivery,Chat,2.9,10.1,24,1,3
+T0077,2025-07-21,Medium,Product help,Email,2.6,8.6,24,1,4
+T0059,2025-07-22,Low,Delivery,Email,13.3,43.5,48,1,5
+T0130,2025-07-23,High,Delivery,Chat,1.6,4.6,8,1,2
+T0398,2025-07-23,Low,Product help,Email,4.3,50.1,48,0,3
+T0041,2025-07-24,Medium,Account access,Email,2.3,14.2,24,1,4
+T0362,2025-07-24,Low,Account access,Chat,3.8,34.2,48,1,4
+T0461,2025-07-24,Medium,Delivery,Chat,9.0,29.1,24,0,3
+T0020,2025-07-25,Medium,Billing,Email,1.9,22.5,24,1,4
+T0033,2025-07-25,Medium,Billing,Chat,3.9,11.0,24,1,5
+T0351,2025-07-25,Low,Delivery,Chat,4.7,42.6,48,1,4
+T0219,2025-07-28,Low,Delivery,Web form,15.1,57.5,48,0,4
+T0358,2025-07-28,Medium,Returns,Chat,4.3,31.2,24,0,2
+T0427,2025-07-28,Medium,Delivery,Email,3.5,13.8,24,1,3
+T0109,2025-07-29,Medium,Account access,Web form,1.4,7.2,24,1,4
+T0421,2025-07-29,Medium,Returns,Email,4.2,21.5,24,1,4
+T0327,2025-08-02,High,Billing,Email,1.1,3.1,8,1,4
+T0374,2025-08-02,Medium,Account access,Chat,5.6,24.9,24,0,2
+T0095,2025-08-03,High,Product help,Chat,2.3,10.0,8,0,3
+T0365,2025-08-03,Medium,Delivery,Email,7.3,23.1,24,1,4
+T0068,2025-08-04,Medium,Delivery,Email,3.4,10.0,24,1,4
+T0108,2025-08-04,Medium,Product help,Chat,1.3,14.3,24,1,5
+T0146,2025-08-05,High,Returns,Chat,3.2,10.8,8,0,2
+T0265,2025-08-05,Low,Delivery,Email,18.8,56.1,48,0,5
+T0299,2025-08-05,Low,Billing,Chat,13.9,37.5,48,1,5
+T0355,2025-08-05,High,Billing,Email,0.8,6.7,8,1,4
+T0419,2025-08-05,Low,Product help,Chat,3.4,21.3,48,1,4
+T0168,2025-08-07,High,Returns,Chat,0.5,3.2,8,1,5
+T0281,2025-08-10,Low,Billing,Email,12.4,46.5,48,1,4
+T0417,2025-08-10,High,Product help,Chat,0.7,3.0,8,1,4
+T0454,2025-08-12,Low,Account access,Web form,3.5,41.0,48,1,3
+T0131,2025-08-13,Low,Billing,Chat,11.9,31.4,48,1,3
+T0338,2025-08-13,Low,Account access,Web form,3.4,23.6,48,1,4
+T0197,2025-08-15,Low,Billing,Email,6.1,31.8,48,1,5
+T0370,2025-08-15,High,Returns,Web form,2.8,10.0,8,0,3
+T0422,2025-08-15,Medium,Product help,Chat,3.8,28.4,24,0,2
+T0236,2025-08-16,Low,Delivery,Email,13.5,48.6,48,0,3
+T0030,2025-08-18,High,Account access,Email,0.7,5.7,8,1,4
+T0323,2025-08-18,Low,Billing,Chat,3.1,16.6,48,1,4
+T0273,2025-08-22,Low,Delivery,Email,4.7,38.9,48,1,5
+T0152,2025-08-23,Medium,Billing,Chat,7.3,20.6,24,1,4
+T0272,2025-08-24,Medium,Billing,Chat,3.8,11.2,24,1,4
+T0279,2025-08-24,Low,Billing,Chat,2.2,32.6,48,1,4
+T0375,2025-08-24,High,Account access,Chat,2.6,10.0,8,0,2
+T0101,2025-08-27,High,Product help,Email,0.2,3.0,8,1,4
+T0078,2025-08-28,Low,Billing,Chat,10.6,41.8,48,1,4
+T0235,2025-08-28,Medium,Returns,Email,3.3,17.0,24,1,4
+T0361,2025-08-28,Low,Billing,Chat,7.4,45.1,48,1,3
+T0065,2025-08-29,Medium,Returns,Email,5.2,17.1,24,1,5
+T0378,2025-08-29,Low,Returns,Chat,18.3,50.5,48,0,3
+T0251,2025-08-30,Low,Account access,Email,9.3,45.1,48,1,4
+T0012,2025-08-31,Medium,Product help,Web form,3.3,9.8,24,1,5
+T0140,2025-08-31,High,Product help,Email,2.7,8.9,8,0,4
+T0245,2025-09-01,Medium,Delivery,Chat,3.1,13.7,24,1,3
+T0034,2025-09-04,Medium,Product help,Web form,1.9,27.0,24,0,3
+T0430,2025-09-04,High,Account access,Email,0.4,4.5,8,1,5
+T0022,2025-09-06,Medium,Delivery,Web form,1.9,16.9,24,1,5
+T0354,2025-09-09,Medium,Delivery,Chat,9.9,29.6,24,0,3
+T0446,2025-09-09,Medium,Product help,Chat,5.4,23.8,24,1,4
+T0278,2025-09-12,Low,Account access,Web form,12.0,44.4,48,1,5
+T0339,2025-09-13,High,Delivery,Chat,1.9,5.1,8,1,4
+T0371,2025-09-13,Medium,Product help,Chat,3.4,12.8,24,1,3
+T0377,2025-09-13,Medium,Account access,Email,6.3,27.5,24,0,2
+T0218,2025-09-14,Medium,Delivery,Chat,6.6,24.8,24,0,3
+T0473,2025-09-15,Medium,Returns,Email,2.0,10.8,24,1,4
+T0256,2025-09-18,Low,Returns,Web form,5.4,18.2,48,1,5
+T0115,2025-09-19,Medium,Returns,Email,8.4,32.0,24,0,3
+T0150,2025-09-19,High,Billing,Chat,0.7,4.2,8,1,4
+T0345,2025-09-19,Low,Returns,Chat,2.7,17.0,48,1,5
+T0369,2025-09-19,Low,Returns,Web form,6.6,60.5,48,0,3
+T0076,2025-09-20,Low,Account access,Chat,2.6,14.5,48,1,4
+T0210,2025-09-20,High,Returns,Web form,2.5,7.4,8,1,4
+T0296,2025-09-20,High,Product help,Web form,1.2,4.8,8,1,4
+T0326,2025-09-21,Medium,Account access,Email,5.5,22.7,24,1,5
+T0195,2025-09-22,Low,Account access,Email,4.4,17.1,48,1,5
+T0264,2025-09-22,Low,Billing,Email,6.3,20.2,48,1,3
+T0001,2025-09-23,Medium,Account access,Web form,2.3,20.6,24,1,4
+T0096,2025-09-23,Low,Billing,Chat,7.5,30.3,48,1,3
+T0082,2025-09-24,Medium,Billing,Email,1.3,12.3,24,1,4
+T0213,2025-09-24,Medium,Account access,Web form,1.4,15.2,24,1,5
+T0328,2025-09-24,Low,Billing,Email,3.7,38.8,48,1,5
+T0172,2025-09-25,Medium,Product help,Chat,4.6,19.4,24,1,5
+T0284,2025-09-25,Medium,Delivery,Chat,0.9,9.9,24,1,4
+T0333,2025-09-26,Medium,Returns,Chat,3.4,11.5,24,1,5
+T0018,2025-09-27,Low,Billing,Chat,3.6,18.1,48,1,4
+T0124,2025-09-27,Low,Product help,Web form,15.3,41.2,48,1,4
+T0147,2025-09-28,Medium,Product help,Email,0.7,10.1,24,1,5
+T0021,2025-09-29,Low,Delivery,Email,5.5,19.1,48,1,4
+T0102,2025-09-29,Medium,Delivery,Email,7.0,18.6,24,1,5
+T0450,2025-09-30,Medium,Product help,Email,3.4,11.8,24,1,5
+T0198,2025-10-03,High,Billing,Chat,0.8,2.3,8,1,4
+T0201,2025-10-03,Medium,Delivery,Chat,2.4,14.1,24,1,5
+T0258,2025-10-03,Low,Billing,Web form,5.9,48.0,48,1,5
+T0319,2025-10-03,Medium,Billing,Email,3.8,10.6,24,1,5
+T0445,2025-10-04,Medium,Returns,Email,1.5,8.5,24,1,4
+T0047,2025-10-05,Medium,Account access,Chat,4.0,15.3,24,1,3
+T0301,2025-10-05,High,Billing,Email,1.5,4.4,8,1,5
+T0394,2025-10-05,High,Product help,Email,1.3,5.3,8,1,4
+T0420,2025-10-05,Medium,Product help,Email,1.6,18.9,24,1,5
+T0397,2025-10-06,Low,Billing,Chat,4.2,28.9,48,1,5
+T0094,2025-10-07,Low,Product help,Web form,16.3,43.7,48,1,4
+T0321,2025-10-07,Low,Returns,Email,18.3,58.7,48,0,4
+T0433,2025-10-09,Low,Delivery,Chat,3.3,29.5,48,1,5
+T0439,2025-10-09,Medium,Delivery,Chat,3.8,27.9,24,0,3
+T0267,2025-10-10,Medium,Account access,Web form,6.7,21.8,24,1,5
+T0153,2025-10-11,Low,Account access,Chat,12.7,36.0,48,1,5
+T0462,2025-10-11,Medium,Product help,Email,6.5,21.8,24,1,5
+T0221,2025-10-12,Medium,Account access,Chat,4.1,11.7,24,1,5
+T0387,2025-10-12,Medium,Returns,Chat,1.0,8.4,24,1,5
+T0423,2025-10-12,Low,Delivery,Web form,13.2,53.3,48,0,3
+T0405,2025-10-14,Low,Delivery,Email,4.4,48.9,48,0,2
+T0428,2025-10-14,Low,Billing,Chat,11.2,36.5,48,1,4
+T0180,2025-10-15,Low,Account access,Email,6.0,38.9,48,1,3
+T0438,2025-10-15,Medium,Product help,Email,2.9,8.0,24,1,5
+T0118,2025-10-16,Low,Product help,Chat,3.2,44.8,48,1,3
+T0138,2025-10-16,Medium,Billing,Email,6.1,18.9,24,1,5
+T0217,2025-10-16,Medium,Delivery,Web form,2.2,30.1,24,0,1
+T0141,2025-10-17,Medium,Billing,Email,3.3,19.9,24,1,5
+T0310,2025-10-18,Medium,Account access,Email,0.5,8.2,24,1,5
+T0028,2025-10-19,Medium,Delivery,Email,4.4,15.0,24,1,5
+T0046,2025-10-19,Low,Delivery,Email,2.8,33.7,48,1,5
+T0205,2025-10-21,High,Delivery,Chat,0.9,5.7,8,1,4
+T0287,2025-10-21,Medium,Delivery,Email,1.6,12.8,24,1,5
+T0343,2025-10-21,Medium,Billing,Email,1.0,7.2,24,1,4
+T0401,2025-10-22,Medium,Billing,Email,5.1,13.8,24,1,5
+T0459,2025-10-22,Low,Account access,Chat,18.5,49.3,48,0,4
+T0060,2025-10-23,Medium,Delivery,Chat,2.6,8.8,24,1,3
+T0208,2025-10-27,Medium,Delivery,Chat,2.4,29.9,24,0,3
+T0297,2025-10-27,Medium,Billing,Chat,4.5,15.4,24,1,4
+T0187,2025-10-28,Medium,Returns,Web form,1.2,13.6,24,1,4
+T0005,2025-10-31,Low,Delivery,Chat,3.8,18.5,48,1,4
+T0432,2025-10-31,Low,Product help,Chat,10.1,38.9,48,1,4
+T0364,2025-11-01,High,Delivery,Chat,0.8,8.1,8,0,3
+T0379,2025-11-01,Low,Account access,Email,10.8,44.8,48,1,4
+T0392,2025-11-01,Medium,Delivery,Web form,2.7,28.0,24,0,4
+T0179,2025-11-04,Low,Account access,Chat,8.2,24.3,48,1,2
+T0451,2025-11-04,Medium,Billing,Chat,1.8,6.3,24,1,3
+T0396,2025-11-05,High,Product help,Web form,0.8,6.2,8,1,5
+T0070,2025-11-06,Medium,Product help,Email,2.3,20.2,24,1,4
+T0242,2025-11-06,High,Delivery,Email,1.5,9.7,8,0,3
+T0071,2025-11-07,Medium,Returns,Web form,2.0,17.6,24,1,3
+T0452,2025-11-08,High,Account access,Email,1.1,8.2,8,0,3
+T0230,2025-11-10,Medium,Delivery,Web form,4.5,13.9,24,1,4
+T0241,2025-11-10,Medium,Billing,Chat,0.7,9.8,24,1,5
+T0066,2025-11-11,Low,Product help,Email,7.9,27.4,48,1,4
+T0226,2025-11-11,Low,Delivery,Chat,13.6,42.1,48,1,4
+T0259,2025-11-11,Low,Returns,Email,2.8,18.0,48,1,4
+T0305,2025-11-11,Low,Delivery,Chat,10.7,52.4,48,0,4
+T0085,2025-11-12,High,Returns,Email,1.3,3.5,8,1,4
+T0004,2025-11-13,Medium,Returns,Chat,2.8,23.9,24,1,4
+T0443,2025-11-13,High,Billing,Chat,0.3,5.1,8,1,5
+T0234,2025-11-14,Medium,Account access,Email,5.8,23.0,24,1,5
+T0227,2025-11-15,High,Delivery,Chat,3.2,11.5,8,0,3
+T0057,2025-11-17,High,Product help,Chat,0.9,4.8,8,1,4
+T0352,2025-11-17,Low,Returns,Web form,4.0,18.8,48,1,5
+T0199,2025-11-18,Medium,Delivery,Email,8.1,23.8,24,1,3
+T0222,2025-11-18,Medium,Product help,Email,2.4,15.2,24,1,5
+T0376,2025-11-18,Medium,Account access,Email,4.6,21.0,24,1,4
+T0431,2025-11-18,High,Returns,Chat,3.3,10.8,8,0,3
+T0032,2025-11-20,Low,Delivery,Web form,5.8,47.1,48,1,4
+T0038,2025-11-20,Low,Product help,Chat,3.3,23.8,48,1,4
+T0113,2025-11-22,Low,Delivery,Email,4.6,15.5,48,1,4
+T0271,2025-11-22,High,Returns,Web form,3.3,9.0,8,0,3
+T0148,2025-11-23,Medium,Product help,Email,3.4,21.6,24,1,4
+T0268,2025-11-24,Low,Returns,Chat,5.6,22.8,48,1,4
+T0277,2025-11-24,Low,Returns,Web form,3.0,38.9,48,1,4
+T0325,2025-11-25,Medium,Billing,Web form,1.2,6.8,24,1,4
+T0092,2025-11-27,Medium,Delivery,Web form,0.8,14.1,24,1,4
+T0285,2025-11-27,Low,Account access,Email,4.4,50.0,48,0,4
+T0049,2025-11-28,Low,Delivery,Email,3.9,40.2,48,1,3
+T0395,2025-11-28,Medium,Product help,Chat,5.1,14.0,24,1,5
+T0467,2025-11-30,Medium,Account access,Email,6.7,18.6,24,1,5
+T0303,2025-12-01,Medium,Returns,Email,5.4,30.9,24,0,3
+T0298,2025-12-03,Low,Account access,Chat,6.3,19.0,48,1,5
+T0344,2025-12-04,Medium,Billing,Web form,2.7,21.7,24,1,5
+T0253,2025-12-05,High,Delivery,Chat,0.7,6.5,8,1,4
+T0120,2025-12-06,Medium,Returns,Chat,1.5,9.0,24,1,3
+T0008,2025-12-07,Low,Account access,Email,12.4,33.6,48,1,4
+T0393,2025-12-07,Medium,Returns,Chat,3.5,23.0,24,1,5
+T0043,2025-12-08,Medium,Account access,Email,3.7,25.3,24,0,4
+T0040,2025-12-09,Medium,Product help,Email,4.7,24.4,24,0,2
+T0100,2025-12-09,Medium,Account access,Email,6.2,21.2,24,1,5
+T0413,2025-12-09,Medium,Returns,Chat,3.7,17.4,24,1,4
+T0334,2025-12-11,Medium,Product help,Web form,3.0,24.7,24,0,4
+T0079,2025-12-12,Medium,Delivery,Email,5.5,29.7,24,0,3
+T0103,2025-12-12,High,Account access,Chat,1.0,2.7,8,1,4
+T0306,2025-12-13,Medium,Account access,Web form,4.1,20.9,24,1,4
+T0244,2025-12-14,Low,Returns,Chat,8.4,24.6,48,1,3
+T0039,2025-12-15,Medium,Account access,Email,3.7,23.4,24,1,5
+T0011,2025-12-16,High,Billing,Chat,0.8,7.4,8,1,5
+T0097,2025-12-16,Medium,Account access,Email,5.8,21.8,24,1,4
+T0183,2025-12-17,Low,Account access,Chat,11.7,36.1,48,1,4
+T0006,2025-12-21,Medium,Delivery,Chat,2.6,11.8,24,1,4
+T0184,2025-12-21,High,Account access,Web form,1.6,5.6,8,1,4
+T0166,2025-12-22,Low,Product help,Chat,4.7,30.5,48,1,5
+T0252,2025-12-22,Medium,Returns,Web form,4.3,21.8,24,1,3
+T0388,2025-12-23,Medium,Delivery,Web form,4.1,18.3,24,1,4
+T0402,2025-12-24,Medium,Delivery,Web form,5.6,23.9,24,1,5
+T0384,2025-12-26,High,Returns,Web form,1.1,6.5,8,1,5
+T0200,2025-12-28,High,Billing,Email,0.6,2.3,8,1,3
+T0031,2025-12-29,Low,Delivery,Chat,5.4,38.4,48,1,4
+T0013,2025-12-31,Medium,Account access,Web form,4.1,27.1,24,0,3
+T0408,2025-12-31,Medium,Account access,Web form,6.4,18.6,24,1,5
